@@ -1,1 +1,2 @@
-# Llumi Language learning using models of intentionality
+# Llumi (Language learning using models of intentionality)
+
